@@ -2,7 +2,7 @@
 layout: post
 title: cattle stocks by country 
 keywords: cattle stocks by country
-date: 2017-05-28 15:46
+date: 2020-06-13 14:44
 description: cattle stocks by country
 categories: cattle stocks by country
 permalink: sel/cattle.html

@@ -2,7 +2,7 @@
 layout: post
 title: Карта Германии с городами
 keywords: Карта Германии с городами
-date: 2017-05-28 15:46
+date: 2018-01-29 13:10
 description: Карта Германии с городами
 categories: Карта Германии с городами
 permalink: nasgor/germgormap.html

@@ -2,7 +2,7 @@
 layout: post
 title: Поголовье кур по странам мира 
 keywords: Поголовье кур по странам мира
-date: 2017-05-28 15:46
+date: 2020-10-22 06:06
 description: Поголовье кур по странам мира
 categories: Поголовье кур по странам мира
 permalink: sel/kur.html

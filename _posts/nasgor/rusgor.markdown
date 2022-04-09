@@ -2,7 +2,7 @@
 layout: post
 title: Информация о городах России
 keywords: Информация о городах России
-date: 2017-05-28 15:46
+date: 2018-08-05 04:08
 description: Информация о городах России
 categories: Информация о городах России
 permalink: nasgor/rusgor.html

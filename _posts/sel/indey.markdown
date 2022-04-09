@@ -2,7 +2,7 @@
 layout: post
 title: Поголовье индеек по странам мира 
 keywords: Поголовье индеек по странам мира
-date: 2017-05-28 15:46
+date: 2018-09-07 07:09
 description: Поголовье индеек по странам мира
 categories: Поголовье индеек по странам мира
 permalink: sel/indey.html

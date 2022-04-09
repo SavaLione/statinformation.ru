@@ -2,7 +2,7 @@
 layout: post
 title: Энергетика биотоплива стран мира
 keywords: Энергетика биотоплива стран мира
-date: 2017-05-28 15:46
+date: 2021-06-03 04:01
 description: Энергетика биотоплива стран мира
 categories: Энергетика биотоплива стран мира
 permalink: ener/biotoplivo.html

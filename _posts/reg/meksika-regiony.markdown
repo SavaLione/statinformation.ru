@@ -2,7 +2,7 @@
 layout: post
 title: Регионы Мексики площадь и население
 keywords: Регионы Мексики площадь и население
-date: 2017-05-28 15:46
+date: 2019-01-28 05:18
 description: Регионы Мексики площадь и население
 categories: Регионы Мексики площадь и население
 permalink: reg/meksika-regiony.html

@@ -2,7 +2,7 @@
 layout: post
 title: Производство (сбор) яблок по странам мира 
 keywords: Производство (сбор) яблок по странам мира
-date: 2017-05-28 15:46
+date: 2020-06-13 14:44
 description: Сбор яблок по странам мира
 categories: Сбор яблок по странам мира
 permalink: sel/apples.html

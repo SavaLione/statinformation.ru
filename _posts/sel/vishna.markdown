@@ -2,7 +2,7 @@
 layout: post
 title: Производство (сбор) вишни по странам мира 
 keywords: Производство (сбор) вишни по странам мира
-date: 2017-05-28 15:46
+date: 2018-09-07 07:09
 description: Сбор вишни по странам мира
 categories: Сбор вишни по странам мира
 permalink: sel/vishna.html

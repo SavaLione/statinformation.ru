@@ -2,7 +2,7 @@
 layout: post
 title: Численность населения Дании в прошлом
 keywords: Численность населения Дании в прошлом
-date: 2017-05-28 15:46
+date: 2019-08-05 07:22
 description: Численность населения Дании в прошлом
 categories: Численность населения Дании в прошлом
 permalink: nasstr/denmark-ist.html

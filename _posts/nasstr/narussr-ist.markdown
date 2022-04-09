@@ -2,7 +2,7 @@
 layout: post
 title: Национальный состав населения СССР
 keywords: Национальный состав населения СССР
-date: 2017-05-28 15:46
+date: 2018-01-01 02:35
 description: Национальный состав населения СССР
 categories: Национальный состав населения СССР
 permalink: nasstr/narussr-ist.html

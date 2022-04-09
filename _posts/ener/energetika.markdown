@@ -2,7 +2,7 @@
 layout: post
 title: Энергетика
 keywords: Энергетика стран мира
-date: 2017-05-28 15:46
+date: 2019-07-05 02:35
 description: Энергетика стран мира
 categories: Энергетика стран мира
 permalink: ener/energetika.html

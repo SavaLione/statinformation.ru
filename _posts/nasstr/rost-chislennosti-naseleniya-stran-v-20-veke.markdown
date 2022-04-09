@@ -2,7 +2,7 @@
 layout: post
 title: Рост численности населения стран в XX веке
 keywords: Рост численности населения стран в XX веке
-date: 2017-05-28 15:46
+date: 2019-10-18 04:03
 description: Рост численности населения стран в XX веке
 categories: Рост численности населения стран в XX веке
 permalink: nasstr/rost-chislennosti-naseleniya-stran-v-20-veke.html

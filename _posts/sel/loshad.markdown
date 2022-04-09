@@ -2,7 +2,7 @@
 layout: post
 title: Поголовье лошадей по странам мира 
 keywords: Поголовье лошадей по странам мира
-date: 2017-05-28 15:46
+date: 2017-06-20 09:48
 description: Поголовье лошадей по странам мира
 categories: Поголовье лошадей по странам мира
 permalink: sel/loshad.html

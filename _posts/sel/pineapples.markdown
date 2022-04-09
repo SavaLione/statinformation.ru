@@ -2,7 +2,7 @@
 layout: post
 title: pineapples production by country 
 keywords: pineapples production by country
-date: 2017-05-28 15:46
+date: 2019-07-09 06:16
 description: pineapples production by country
 categories: pineapples production by country
 permalink: sel/pineapples.html

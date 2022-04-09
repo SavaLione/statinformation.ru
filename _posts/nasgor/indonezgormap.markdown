@@ -2,7 +2,7 @@
 layout: post
 title: Карта Индонезии и Явы с крупными городами
 keywords: Карта Индонезии и Явы с крупными городами
-date: 2017-05-28 15:46
+date: 2018-12-02 08:07
 description: Карта Индонезии и Явы с крупными городами
 categories: Карта Индонезии и Явы с крупными городами
 permalink: nasgor/indonezgormap.html

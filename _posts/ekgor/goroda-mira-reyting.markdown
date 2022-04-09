@@ -2,7 +2,7 @@
 layout: post
 title: Экономика городов мира
 keywords: Экономика ВВП В.В.П. городов мира
-date: 2017-05-28 15:46
+date: 2019-07-05 02:35
 description: Экономика городов мира
 categories: Экономика городов мира
 permalink: ekgor/goroda-mira-reyting.html

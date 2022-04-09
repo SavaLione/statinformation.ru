@@ -2,7 +2,7 @@
 layout: post
 title: Экономика стран мира 1700 год 
 keywords: Экономика стран мира 1700 год
-date: 2017-05-28 15:46
+date: 2021-06-03 04:01
 description: Экономика стран мира 1700 год
 categories: Экономика стран мира 1700 год
 permalink: st-1700-god.html

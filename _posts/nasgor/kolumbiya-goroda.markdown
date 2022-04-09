@@ -2,7 +2,7 @@
 layout: post
 title: Численность населения городов Колумбии
 keywords: Численность населения городов Колумбии
-date: 2017-05-28 15:46
+date: 2017-12-21 23:23
 description: Численность населения городов Колумбии
 categories: Численность населения городов Колумбии
 permalink: nasgor/kolumbiya-goroda.html

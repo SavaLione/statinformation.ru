@@ -2,7 +2,7 @@
 layout: post
 title: Языковой состав населения стран мира
 keywords: Языковой состав населения стран мира
-date: 2017-05-28 15:46
+date: 2019-08-22 20:19
 description: Языковой состав населения стран мира
 categories: Языковой состав населения стран мира
 permalink: nasstr/language.html

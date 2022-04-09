@@ -2,7 +2,7 @@
 layout: post
 title: Карта Вьетнама с городами
 keywords: Карта Вьетнама с городами
-date: 2017-05-28 15:46
+date: 2019-11-01 04:18
 description: Карта Вьетнама с городами
 categories: Карта Вьетнама с городами
 permalink: nasgor/vietgormap.html

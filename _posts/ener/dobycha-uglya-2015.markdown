@@ -2,7 +2,7 @@
 layout: post
 title: Добыча угля стран мира 2015
 keywords: Добыча угля стран мира 2015
-date: 2017-05-28 15:46
+date: 2021-06-03 04:01
 description: Добыча угля стран мира 2015
 categories: Добыча угля стран мира 2015
 permalink: ener/dobycha-uglya-2015.html

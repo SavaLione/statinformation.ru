@@ -2,7 +2,7 @@
 layout: post
 title: Производство (сбор) груш по странам мира 
 keywords: Производство (сбор) груш по странам мира
-date: 2017-05-28 15:46
+date: 2019-06-05 07:03
 description: Сбор груш по странам мира
 categories: Сбор груш по странам мира
 permalink: sel/grusha.html

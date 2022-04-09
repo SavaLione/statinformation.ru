@@ -2,7 +2,7 @@
 layout: post
 title: Численность населения городов стран мира
 keywords: Численность населения городов стран мира
-date: 2017-05-28 15:46
+date: 2020-01-23 09:53
 description: Численность населения городов стран мира
 categories: Численность населения городов стран мира
 permalink: nasgor/naselenie-gorodov.html

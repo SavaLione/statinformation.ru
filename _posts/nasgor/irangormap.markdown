@@ -2,7 +2,7 @@
 layout: post
 title: Карта Ирана с городами
 keywords: Карта Ирана с городами
-date: 2017-05-28 15:46
+date: 2018-03-15 05:41
 description: Карта Ирана с городами
 categories: Карта Ирана с городами
 permalink: nasgor/irangormap.html

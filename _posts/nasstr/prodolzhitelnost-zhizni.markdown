@@ -2,7 +2,7 @@
 layout: post
 title: Рейтинг стран по продолжительности жизни
 keywords: Рейтинг стран по продолжительности жизни
-date: 2017-05-28 15:46
+date: 2019-08-05 07:22
 description: Рейтинг стран по продолжительности жизни
 categories: Рейтинг стран по продолжительности жизни
 permalink: nasstr/prodolzhitelnost-zhizni.html

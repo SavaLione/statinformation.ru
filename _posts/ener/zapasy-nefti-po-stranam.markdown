@@ -2,7 +2,7 @@
 layout: post
 title: Запасы нефти по странам мира
 keywords: Запасы нефти по странам мира
-date: 2017-05-28 15:46
+date: 2021-06-03 04:01
 description: Запасы нефти по странам мира
 categories: Запасы нефти по странам мира
 permalink: ener/zapasy-nefti-po-stranam.html

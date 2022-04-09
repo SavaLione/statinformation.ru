@@ -2,7 +2,7 @@
 layout: post
 title: Страны мира в 1900 году
 keywords: Страны мира в 1900 году
-date: 2017-05-28 15:46
+date: 2019-07-05 02:35
 description: Страны мира в 1900 году 
 categories: Страны мира в 1900 году 
 permalink: 1900/1900god.html

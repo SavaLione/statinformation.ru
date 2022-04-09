@@ -2,7 +2,7 @@
 layout: post
 title: Население стран мира
 keywords: Население стран мира
-date: 2017-05-28 15:46
+date: 2018-01-01 02:35
 description: Население стран мира
 categories: Население стран мира
 permalink: nasstr/naselenie-stran.html

@@ -2,7 +2,7 @@
 layout: post
 title: Добыча нефти по странам мира 2015
 keywords: Добыча нефти по странам мира 2015
-date: 2017-05-28 15:46
+date: 2021-06-03 04:01
 description: Добыча нефти по странам мира 2015
 categories: Добыча нефти по странам мира 2015
 permalink: ener/dobycha-nefti-2015.html

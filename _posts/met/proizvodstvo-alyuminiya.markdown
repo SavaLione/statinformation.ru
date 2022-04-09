@@ -2,7 +2,7 @@
 layout: post
 title: Производство (выплавка) алюминия по странам мира
 keywords: Производство лидеры выплавка алюминия по странам мир
-date: 2017-05-28 15:46
+date: 2019-03-31 18:16
 description: Производство алюминия по странам. 
 categories: Производство алюминия по странам. 
 permalink: met/proizvodstvo-alyuminiya.html

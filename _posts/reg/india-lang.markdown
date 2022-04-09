@@ -2,7 +2,7 @@
 layout: post
 title: Языки штатов Индии 
 keywords: Языки штатов Индии
-date: 2017-05-28 15:46
+date: 2020-09-22 05:53
 description: Языки штатов Индии
 categories: Языки штатов Индии
 permalink: reg/india-lang.html

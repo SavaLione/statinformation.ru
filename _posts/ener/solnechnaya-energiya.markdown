@@ -2,7 +2,7 @@
 layout: post
 title: солнечная энергия энергетика стран мира
 keywords: солнечная энергия энергетика стран мира
-date: 2017-05-28 15:46
+date: 2021-06-03 04:01
 description: солнечная энергия энергетика стран мира
 categories: солнечная энергия энергетика стран мира
 permalink: ener/solnechnaya-energiya.html

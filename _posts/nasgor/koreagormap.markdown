@@ -2,7 +2,7 @@
 layout: post
 title: Карта Кореи с городами
 keywords: Карта Кореи с городами
-date: 2017-05-28 15:46
+date: 2019-11-01 04:18
 description: Карта Кореи с городами
 categories: Карта Кореи с городами
 permalink: nasgor/koreagormap.html

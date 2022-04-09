@@ -2,7 +2,7 @@
 layout: post
 title: Атомные электростанции России
 keywords: Атомные электростанции России
-date: 2017-05-28 15:46
+date: 2021-06-03 04:01
 description: Атомные электростанции России
 categories: Атомные электростанции России
 permalink: ener/atomros.html

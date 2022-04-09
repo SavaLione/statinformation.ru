@@ -2,7 +2,7 @@
 layout: post
 title: Численность населения городов Грузии
 keywords: Численность населения городов Грузии
-date: 2017-05-28 15:46
+date: 2018-08-05 04:08
 description: Численность населения городов Грузии
 categories: Численность населения городов Грузии
 permalink: nasgor/georgia-gor.html

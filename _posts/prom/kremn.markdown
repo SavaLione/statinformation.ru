@@ -2,7 +2,7 @@
 layout: post
 title: Добыча кремния по странам мира
 keywords: Добыча кремния по странам мира
-date: 2017-05-28 15:46
+date: 2020-09-01 17:21
 description: Добыча кремния по странам мира
 categories: Добыча кремния по странам мира
 permalink: prom/kremn.html

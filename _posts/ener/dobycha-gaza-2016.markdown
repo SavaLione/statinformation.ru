@@ -2,7 +2,7 @@
 layout: post
 title: Добыча газа по странам мира 2016
 keywords: Добыча газа по странам мира 2016
-date: 2017-05-28 15:46
+date: 2019-07-05 02:35
 description: Добыча газа по странам мира 2016
 categories: Добыча газа по странам мира 2016
 permalink: ener/dobycha-gaza-2016.html

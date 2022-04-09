@@ -2,7 +2,7 @@
 layout: post
 title: turkeys stocks by country 
 keywords: turkeys stocks by countr
-date: 2017-05-28 15:46
+date: 2020-10-22 06:06
 description: turkeys stocks by countr
 categories: turkeys stocks by countr
 permalink: sel/turkeys.html

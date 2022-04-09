@@ -2,7 +2,7 @@
 layout: post
 title: Поголовье свиней по странам мира 
 keywords: Поголовье свиней по странам мира 
-date: 2017-05-28 15:46
+date: 2017-06-20 09:48
 description: Поголовье свиней по странам мира 
 categories: Поголовье свиней по странам мира 
 permalink: sel/svin.html

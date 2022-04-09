@@ -2,7 +2,7 @@
 layout: post
 title: Численность населения городов Германии
 keywords: Численность населения городов Германии
-date: 2017-05-28 15:46
+date: 2018-01-29 13:10
 description: Численность населения городов Германии
 categories: Численность населения городов Германии
 permalink: nasgor/germaniya-goroda.html

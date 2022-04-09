@@ -2,7 +2,7 @@
 layout: post
 title: rice production by country 
 keywords: rice production by country
-date: 2017-05-28 15:46
+date: 2017-06-20 09:48
 description: rice production by country
 categories: rice production by country
 permalink: sel/rice1.html

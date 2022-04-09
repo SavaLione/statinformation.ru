@@ -2,7 +2,7 @@
 layout: post
 title: Доля стран в мировом ВВП (%)
 keywords: Доля стран в мировом в.в.п. % Валовый внутренний продукт ВВП
-date: 2017-05-28 15:46
+date: 2021-08-28 21:22
 description: Доля стран в мировом ВВП (%)
 categories: Доля стран в мировом ВВП (%)
 permalink: vvp/m-v-f-dolya-stran-v-v-v-p.html

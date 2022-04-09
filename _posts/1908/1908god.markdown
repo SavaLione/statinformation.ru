@@ -2,7 +2,7 @@
 layout: post
 title: Страны мира в 1908 году
 keywords: Страны мира в 1908 году
-date: 2017-05-28 15:46
+date: 2019-07-09 06:16
 description: Страны мира в 1908 году 
 categories: Страны мира в 1908 году 
 permalink: 1908/1908god.html

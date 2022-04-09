@@ -2,7 +2,7 @@
 layout: post
 title: Численность населения Чили в прошлом
 keywords: Численность населения Чили в прошлом
-date: 2017-05-28 15:46
+date: 2019-08-05 07:22
 description: Численность населения Чили в прошлом
 categories: Численность населения Чили в прошлом
 permalink: nasstr/chile-ist.html

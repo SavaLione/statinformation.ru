@@ -2,7 +2,7 @@
 layout: post
 title: Валовый внутренний продукт стран мира ВВП
 keywords: Валовый внутренний продукт стран мира ВВП
-date: 2017-05-28 15:46
+date: 2021-08-28 21:22
 description: Валовый внутренний продукт стран мира ВВП
 categories: Валовый внутренний продукт стран мира ВВП
 permalink: vvp/valovyy-vnutrenniy-produkt.html

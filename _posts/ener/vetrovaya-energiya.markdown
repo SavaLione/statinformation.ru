@@ -2,7 +2,7 @@
 layout: post
 title: Потребление энергии ветра по странам
 keywords: Потребление энергии ветра по странам
-date: 2017-05-28 15:46
+date: 2021-06-03 04:01
 description: Потребление энергии ветра по странам
 categories: Потребление энергии ветра по странам
 permalink: ener/vetrovaya-energiya.html

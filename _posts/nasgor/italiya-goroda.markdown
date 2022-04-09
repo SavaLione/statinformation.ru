@@ -2,7 +2,7 @@
 layout: post
 title: Численность населения городов Италии
 keywords: Численность населения городов Италии
-date: 2017-05-28 15:46
+date: 2018-03-15 05:41
 description: Численность населения городов Италии
 categories: Численность населения городов Италии
 permalink: nasgor/italiya-goroda.html

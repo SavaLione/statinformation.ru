@@ -2,7 +2,7 @@
 layout: post
 title: Привлечение других трейдеров 
 keywords: Привлечение других трейдеров
-date: 2017-05-28 15:46
+date: 2021-09-07 19:15
 description: Привлечение других трейдеров
 categories: Привлечение других трейдеров
 permalink: bir/privlechenie-treyderov.html
