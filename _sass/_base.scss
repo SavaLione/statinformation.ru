@@ -8,7 +8,8 @@ body {
   font-feature-settings: "kern", "liga", "dlig", "salt";
   text-rendering: optimizeLegibility;
 
-  background-color: $background-color;
+  //background-color: $background-color;
+  background-image:url('/assets/images/fon.jpg');
   font-family: $base-font-family;
   font-size: $base-font-size;
   color: $text-color;
@@ -152,31 +153,47 @@ header {
   }
 }
 
-footer {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  font-size: $small-font-size;
+// footer {
+//   margin-top: 1em;
+//   margin-bottom: 1em;
+//   font-size: $small-font-size;
 
-  color: $alt-text-color;
+//   color: $alt-text-color;
 
-  .biography {
-    margin-top: 2em;
-    padding-bottom: 1em;
-    border-bottom: 1px solid $subdued-border;
-    margin-bottom: 1em;
-  }
+//   .biography {
+//     margin-top: 2em;
+//     padding-bottom: 1em;
+//     border-bottom: 1px solid $subdued-border;
+//     margin-bottom: 1em;
+//   }
 
-  h2 {
-    font-size: 1.2em;
-    font-variant: small-caps;
-    text-transform: lowercase;
-    font-weight: bold;
-    letter-spacing: 0.15em;
-  }
+//   h2 {
+//     font-size: 1.2em;
+//     font-variant: small-caps;
+//     text-transform: lowercase;
+//     font-weight: bold;
+//     letter-spacing: 0.15em;
+//   }
 
-  a, a:hover {
-    color: $alt-color-darker;
-  }
+//   a, a:hover {
+//     color: $alt-color-darker;
+//   }
+// }
+
+footer{
+	background-color:#507ab7;
+	height: 40px;
+	clear: both;
+	padding: 7px;
+	border-top: 0px solid grey;
+	font-size: 16px;
+	font-family: Georgia;
+	color: white;
+	border: 1px solid grey;
+	text-align: center;
+	margin: 5px;
+	box-shadow: 3px 3px 3px #555;
+	text-decoration: none; 
 }
 
 .footnotes {
@@ -221,4 +238,441 @@ table {
     padding-bottom: 0.6em;
     // border-bottom: 2px solid $alt-color;
   }
+}
+
+// Others
+// Styles
+
+
+
+#wrapper{
+	width: 1050px;
+	margin: 0 auto;
+	border: 0px solid grey;
+}
+
+#wrapperw{
+	width: 1050px;
+	margin: 0 auto;
+	border: 0px solid grey;
+}
+
+#header{
+	height: 40px;
+	clear: both;
+	padding: px;
+	border-top: 0px solid grey;
+	font-size: 16px;
+	font-family: Georgia;
+	color: white;
+	border: 1px solid grey;
+	text-align: left;
+	margin: 5px;
+	background-color:#507ab7;
+	box-shadow: 3px 3px 3px #555;
+}
+
+#sidebar{
+	width: 300px;
+	position: relative;
+	float: right;
+
+	border: 0 px solid grey;
+}
+
+.h1 {
+	font-size: 16px;
+}
+
+.h2 {
+	font-size: 16px;
+	font-weight:normal;
+}
+
+#main{
+	width: 740px;
+	float: left;
+	background-color: Linen;
+	border: 0px solid grey;
+	margin: 5px;
+	box-shadow: 3px 3px 3px #555;
+	clear: both;
+}
+
+#mainw{
+	width: 800px;
+	float: left;
+	background-color: white;
+	border: 0px solid grey;
+	margin: 5px;
+	box-shadow: 3px 3px 3px #555;
+	clear: both;
+}
+
+#mainindex{
+	width: 600px;
+	float: left;
+	background-color: Linen;
+	border: 0px solid grey;
+	margin: 5px;
+	box-shadow: 3px 3px 3px #555;
+	clear: both;
+}
+
+#content{
+	clear: both;
+	width: 590 px;
+	background: Linen;
+	color: black;
+	font-size: 18 px;
+	font-family: Arial;
+	margin: 0px;
+	padding: 10px;
+	border: px solid grey;
+	float: center;
+}
+
+#contentw{
+	clear: both;
+	width: 790 px;
+	background: Linen;
+	color: black;
+	font-size: 18 px;
+	font-family: Georgia;
+	margin: 0px;
+	padding: 10px;
+	border: px solid grey;
+	float: center;
+}
+
+#footer{
+	background-color:#507ab7;
+	height: 40px;
+	clear: both;
+	padding: 7px;
+	border-top: 0px solid grey;
+	font-size: 16px;
+	font-family: Georgia;
+	color: white;
+	border: 1px solid grey;
+	text-align: center;
+	margin: 5px;
+	box-shadow: 3px 3px 3px #555;
+	text-decoration: none; 
+}
+
+#rekheader1{
+	padding: 3px;
+	position: left = 0px;
+	border: 0px solid grey;
+	width: 50%;
+	float: left;
+	color: black;
+}
+
+#rekheader2{
+	padding: 3px;
+	position: right = 0px;
+	color: black;
+	border: 0px solid grey;
+	float: right;
+	width: 50%;
+}
+
+#left{
+	padding: 0px;
+	position: left = 0px;
+	border: 0px solid grey;
+	width: 50%;
+	float: left;
+	color: black;
+	background: Linen;
+}
+
+#right{
+	padding: 0px;
+	position: right = 0px;
+	color: black;
+	border: 0px solid grey;
+	float: right;
+	width: 50%;
+	background: Linen;
+}
+
+#rekside1{
+	padding-left: 5px;
+	position: top = 0px;
+	background-color: Grey;
+	border: 0px solid grey;
+	margin: 5px;
+	box-shadow: 3px 3px 3px #555;
+}
+
+#rekside2{
+	padding-left: 3px;
+	position: bottom = 0px;
+	background-color: gray;
+	border: 0px solid grey;
+	margin: 5px;
+	box-shadow: 3px 3px 3px #555;
+}
+
+#side{
+	padding-left: 5px;
+	background-color:Grey ;
+	margin: 5px;
+	border: 0px solid grey;
+	box-shadow: 3px 3px 3px #555;
+}
+
+#ban{
+	padding-left: 1px;
+	float: top; 
+	border: 1px solid grey;
+
+	color: white;
+	font-family: Georgia;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	background-color: #507ab7;
+}
+
+#ban1{
+	float: top; 
+	border: 1px solid grey;
+	padding: 1 px;
+	color: black;
+	font-family: Georgia;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#men{
+	color: white;
+	width: 600px;
+	position: center;
+	background-color: grey;
+	border: 0px solid grey;
+	margin: 5px;
+	box-shadow: 3px 3px 3px #555;
+}
+
+#menindex{
+	color: black;
+	width: 600px;
+	position: center;
+	background: Linen;
+	border: 0px solid grey;
+	margin-top: 5px;
+	box-shadow: 3px 3px 3px #555;
+	padding: 15px;
+	padding-left: 20px;
+	font-size: 16px;
+	font-family: Arial;
+	margin: 5px;
+}
+
+#but{
+	float: left;
+	width: 90px;
+	height: 50px;
+	background-color: #507ab7;
+	margin: 5px;
+	box-shadow: 3px 3px 3px #555;
+	font-size: 16px;
+	color: white;
+}
+
+#logo{
+	float: left;
+	padding: 4px;
+}
+
+#logo1{
+	float: left;
+	padding: 9px;
+}
+
+#glav{
+	float: right;
+	font-family: Arial;
+	padding: 9px;
+}
+
+#center{
+	border: 0px solid grey;
+	width: 100%
+}
+
+#index{
+	width: 610px;
+	float: right;
+	background: white;
+	min-height: 500px;
+	color: black;
+	font-size: 20px;
+	font-family: Georgia;
+	padding: 0px;
+}
+
+#lheader{
+	border: 1px solid grey;
+	width: 200px;
+	border-bottom: 0px solid grey;
+}
+
+#rekheader{
+}
+
+#rekfooter{
+	border: 0px solid grey;
+}
+
+#nazv{
+	height: 15;
+	float: bottom; 
+	color: white;
+	border: 1px solid grey;
+}
+
+#ssiltop{
+	color: white;
+	float: clear;
+	border: 0px solid grey;
+	padding-left: 5px
+}
+
+.vert{
+  position: fixed;
+  left:-41px;
+  top:50%;
+  text-align:center;
+  transform: rotate(-90deg);
+
+}
+
+.tutu{
+  position: fixed;
+  left:0 px;
+  top:12%;
+  text-align:center;
+  transform: rotate(0deg);
+}
+
+a.button4 {
+  color: white;
+  text-decoration: none;
+  padding: 4px;
+   padding-left: 5px;
+  border-radius: 0px;
+  background: #507ab7;
+  box-shadow: 0px 3px 3px #555;
+
+  border: 1px solid grey;
+  font-family: Georgia;
+  font-size: 14px;
+     display: block;
+    width: 100%;
+} 
+
+a.button4:hover { 
+background:  linen;
+ color: black;
+box-shadow:none;
+font-family: Georgia;
+font-size: 14px;
+border-radius: 3px;
+ border: 1px solid grey;
+  padding: 4px;
+padding-left: 5px;
+}
+
+a.button4:active {
+  background: rgb(33,147,90);
+  box-shadow: 0 3px rgb(33,147,90) inset;
+}
+
+a.button5 {
+  color: white;
+  text-decoration: none;
+  padding: 0px;
+   padding-left: 3px;
+   padding-right: 3px;   
+  border-radius: 0px;
+  background: #507ab7;
+  box-shadow: 0px 3px 3px #555;
+
+  border: 1px solid grey;
+  font-family: Calibri;
+  font-size: 14px;
+     display: block;
+    width: 100%;
+}
+
+a.button5:hover { 
+background:  linen;
+ color: black;
+box-shadow:none;
+font-family: Georgia;
+font-size: 14px;
+border-radius: 3px;
+ border: 1px solid grey;
+  padding: 0px;
+padding-left: 1px;
+}
+
+a.button5:active {
+  background: rgb(33,147,90);
+  box-shadow: 0 3px rgb(33,147,90) inset;
+}
+
+a.button3 {
+
+  color: white;
+  text-decoration: none;
+  padding: 2px;
+   padding-left: 4px;
+  border-radius: 0px;
+  background: #507ab7;
+  box-shadow: 3px 3px #555;
+
+  border: 0px solid grey;
+  font-family: Georgia;
+  font-size: 16px;
+     display: block;
+    width: 100%;
+  
+} 
+
+a.button3:hover { 
+background:  linen;
+ color: black;
+box-shadow:none;
+font-family: Georgia;
+font-size: 16px;
+border-radius: 0px;
+ border: 1px solid grey;
+  padding: 2px;
+
+}
+
+a.button3:active {
+  background: rgb(33,147,90);
+  box-shadow: 0 3px rgb(33,147,90) inset;
+}
+
+#sidemenu{
+	margin: 5px;
+}
+
+#men1{
+	width: 180px;
+	float: left;
+}
+
+#ya{
+	float: right;
+	padding: 8px;
 }

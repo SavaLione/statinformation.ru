@@ -1,0 +1,16 @@
+<div id="header">
+	{% if site.site_name %}
+		<span id="logo"><img src="/assets/images/logo2.png"></span>&nbsp;<span id="logo1">{{ site.site_name }}</span>
+	{% endif %}
+
+	<div class="vert"><a href="/index.html" class="button4">НА ГЛАВНУЮ</a></div>
+</div>
+
+<div id="sidebar">
+	<div id="sidemenu"><a class="button3" href="../vvp/valovyy-vnutrenniy-produkt.html">ВВП</a></div>
+
+	{% assign categories = site.categories | sort %}
+	{% for category in categories %}
+	<div id="sidemenu"><a class="button3" href="../vvp/valovyy-vnutrenniy-produkt.html">{{ category | first }}</a></div>
+	{% endfor %}
+</div>
