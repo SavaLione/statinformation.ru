@@ -21,6 +21,11 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:path.html
 
+collections:
+  pages:
+   output: true
+   permalink: /:path.html
+
 # Plugins
 plugins:
   - jekyll-archives

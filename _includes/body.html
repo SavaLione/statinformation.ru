@@ -7,10 +7,20 @@
 </div>
 
 <div id="sidebar">
-	<div id="sidemenu"><a class="button3" href="../vvp/valovyy-vnutrenniy-produkt.html">ВВП</a></div>
+	<div id="sidemenu"><a class="button3" href="../vvp/valovyy-vnutrenniy-produkt.html"  >ВВП</a></div>
+	<div id="sidemenu"><a class="button3" href="../vvpi/istoricheskie-dannye-po-v-v-p.html" >Исторический ВВП</a></div>
+	<div id="sidemenu"><a class="button3" href="../inf/inflyaciya.html" >Инфляция</a></div>
+	<div id="sidemenu"><a class="button3" href="../prom/promyshlennost-stran.html" >Промышленность</a></div>
+	<div id="sidemenu"><a class="button3" href="../met/metallurgiya.html" >Металлургия</a></div>
+	<div id="sidemenu"><a class="button3" href="../ener/energetika.html" >Энергетика</a></div>
+	<div id="sidemenu"><a class="button3" href="../tran/transport.html" >Транспорт</a></div>
+	<div id="sidemenu"><a class="button3" href="../sel/selskoe-hozyaystvo.html" >Сельское хозяйство</a></div>
+	<div id="sidemenu"><a class="button3" href="../reg/regiony-stran.html" >Регионы стран</a></div>
+	<div id="sidemenu"><a class="button3" href="../nasstr/naselenie-stran.html" >Население стран</a></div>
+	<div id="sidemenu"><a class="button3" href="../nasgor/naselenie-gorodov.html" >Население городов</a></div>
+	<div id="sidemenu"><a class="button3" href="../ekgor/ekonomika-gorodov.html" >Экономика городов</a></div>
 
 	{% for post in page.posts %}
 		<div id="sidemenu"><a class="button3" href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
 	{% endfor %}
-
 </div>
